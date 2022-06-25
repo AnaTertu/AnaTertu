@@ -26,3 +26,6 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AnaTertu&langs_count=8)](https://github.com/AnaTertu/github-readme-stats)
 ![AnaTertu's GitHub stats](https://github-readme-stats.vercel.app/api?username=AnaTertu&hide=contribs,issues)
+
+### Visitor count:
+![Visitor Count](https://profile-counter.glitch.me/AnaTertu/count.svg)
