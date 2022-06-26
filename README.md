@@ -24,6 +24,10 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" height="40" width="40" style="max-width:100%;"></img>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" alt="React" height="40" width="40" style="max-width:100%;"></img>
 
+
+### Languages and Tools:
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AnaTertu&langs_count=8&theme=radical)
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AnaTertu&langs_count=8)](https://github.com/AnaTertu/github-readme-stats)
 ![AnaTertu's GitHub stats](https://github-readme-stats.vercel.app/api?username=AnaTertu&hide=contribs,issues)
 
