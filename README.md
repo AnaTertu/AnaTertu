@@ -3,22 +3,20 @@
   <img src="https://avatars.githubusercontent.com/u/66326789?v=4" alt="AnaTertu" height="100" width="100" style="max-width:100%;" ><img/>
 <a/>
 
-### Gosto de atuar em Teste e Qualidade de Software sigo me aperfeiçoando.
-#### Estou aprendendo SWIFT paixão que vem crescendo.
+#### Em minha transição de carreira gostei do período que atuei no Front, Back, Teste e Qualidade de Software.
+### Conheci o SWIFT que se tornou minha paixão e foco de aprendizado, pra concretizar minha migração em TI.
 
 <br>
 
 
-Em formação Ciências da Computação, possuo mais de 2 anos de experiência na área de TI com teste de Software.
+Em formação Ciências da Computação, possuo mais de 4 anos de experiência na área de TI vivência somando estudo e trabalho.
 
 Após me dedicar por 15 anos na área de vendas com louvor, em 2020 decidi retornar aos estudos na área que sinto aptidão por demonstrar conhecimento através de algumas contribuições às empresas por onde passei, então busquei transição de carreira.
-
-Hoje com mais de 2 anos de vivêcia tendo experimentado um pouco do front, back e dados, me peguei apaixonada pela área de qualidade. 
   
-- Living in Porto Alegre / RS
+- Living in São José / SC
 - 🔭 Work in home office
 - :woman_student: I'm a student ✍🏼
-- -- 🎓  Faculdade em **Ciência da Computação** - 5º semestre
+- -- 🎓  Faculdade em **Ciência da Computação** - 6º semestre
 - 🔭 Cursos na Alura (patrocínio BV), danki.code, Alura, Udemi e Loiane Training.
 - 🌱 I’m currently learning Front-end - Web e Mobile com JavaScript, Angular, TypeScript e React 💻
 - 🎓 Formada **imersão de 6 meses Full Stack** na [RecodePro/2021](https://mail-attachment.googleusercontent.com/attachment/u/0/?ui=2&ik=1f5086dcef&attid=0.1&permmsgid=msg-f:1694034762662692652&th=17826ba429ac472c&view=att&disp=inline&saddbat=ANGjdJ9xq0F-y0TGVRuE6kriiRhO_x7iiDqRoU-m3bzVAX2Gop01Tmap9KYzkBqYim-H1cPoNPUibuIeyaMtuLg6H8oZD2uAzs5LvMPj8bLgptZGQPWvG2OwQ6o-obhyEN9HXpBjo9N3CyZmQhJbCaw_fLK5703rJmc6bcdNZHRrkLPvDHzVD2QDzFTY8gryANAQaUmKWck-nvywM6w6iU2lnEl5tqo99GoJmj4gCZes61vCj-nukwAejdoFBtpJs7EHmsvF6j4dfOrlyLq4bSuVTXkAUFGmfVZJd2JCnqPnv0isJOiMTfHEoUstrczjhbh29fqd_3sF-1gDJcN0t2I-fF6Hc6hniFze3JoxsxGifuU8MUChAZ-gV6ssnPxQrCQTWgVZ-issRQvNhkjeJfQzqu0Xy1d0BPjY8aXJOvuEMC0Km6iPb9HkV_EXhjCsoRYH3f3mDCgXQx6218IXzp-mp63XGhhSJv41UsAqwfCLK4UaNPTTzLsD64P7n2wdhpYSwxqAO7vvNdhzqGs15ANNGYy_oRMIDeG3xXAxxY6XOoOBYKaykHDCSGS7xMAq_XvMdCpurHo2_mu99hSjJLUKAXPvOpgb3Di97TLA3lEAhZyTpXf2nyt4wII5C9hVM2NqPSdR5D6GghV4lsBvaaY_N-LkQZ5FnR77i_kxmOacASDJrV3mdElyExYTwUU).
