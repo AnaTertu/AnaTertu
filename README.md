@@ -77,3 +77,6 @@ Após me dedicar por 15 anos na área de vendas com louvor, em 2020 decidi retor
 <!-- img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="Bootstrap" height="40" width="40" style="max-width:100%;"></img -->
 <!-- img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" alt="React" height="40" width="40" style="max-width:100%;"></img -->
 [![JSON](https://img.shields.io/badge/json-5E5C5C?style=for-the-badge&logo=json&logoColor=white)]()
+
+![octocat-1740947637790](https://github.com/user-attachments/assets/47186924-63ee-4fbc-a3c3-b4aa61ea82b0)
+
