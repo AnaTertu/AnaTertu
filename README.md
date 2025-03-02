@@ -16,7 +16,7 @@ Após me dedicar por 15 anos na área de vendas com louvor, em 2020 decidi retor
 - Living in São José / SC
 - 🔭 Work in home office
 - :woman_student: I'm a student ✍🏼
-- 🎓  Faculdade em **Ciência da Computação** - 6º semestre
+- 🎓  Faculdade em **Ciência da Computação**
 #### ✨ Atualmente estudo Swift na:
 - ✨ Tic em Trilhas -> Introdução ao desenvolvimento mobile (iOS) [2024]
 - ✨ Dio -> Bootcamp Santander Santander Bootcamp 2023 -  Mobile iOS com Swift
