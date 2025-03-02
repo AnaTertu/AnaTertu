@@ -32,6 +32,18 @@ Após me dedicar por 15 anos na área de vendas com louvor, em 2020 decidi retor
 <a/>
 
 <br>
+<br>
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AnaTertu&langs_count=12&theme=radical)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AnaTertu&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+<!-- ![AnaTertu's GitHub stats](https://github-readme-stats.vercel.app/api?username=AnaTertu&hide=contribs,issues) -->
+
+![AnaTertu's GitHub stats](https://github-readme-stats.vercel.app/api?username=AnaTertu&show_icons=true&theme=radical)
+
+### Visitor count:
+![Visitor Count](https://profile-counter.glitch.me/AnaTertu/count.svg)
 
 ## **Skills**
 
@@ -65,15 +77,3 @@ Após me dedicar por 15 anos na área de vendas com louvor, em 2020 decidi retor
 <!-- img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="Bootstrap" height="40" width="40" style="max-width:100%;"></img -->
 <!-- img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" alt="React" height="40" width="40" style="max-width:100%;"></img -->
 [![JSON](https://img.shields.io/badge/json-5E5C5C?style=for-the-badge&logo=json&logoColor=white)]()
-
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AnaTertu&langs_count=12&theme=radical)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AnaTertu&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
-<!-- ![AnaTertu's GitHub stats](https://github-readme-stats.vercel.app/api?username=AnaTertu&hide=contribs,issues) -->
-
-![AnaTertu's GitHub stats](https://github-readme-stats.vercel.app/api?username=AnaTertu&show_icons=true&theme=radical)
-
-### Visitor count:
-![Visitor Count](https://profile-counter.glitch.me/AnaTertu/count.svg)
