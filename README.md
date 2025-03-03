@@ -30,10 +30,12 @@ Após me dedicar por 15 anos na área de vendas com louvor, em 2020 decidi retor
 
 - **imersão de 6 meses Full Stack** na [RecodePro/2021](https://github.com/AnaTertu/AnaTertu.github.io/blob/main/Certificado_RecodePRO-SP-Ana_Carolina_Tertuliano_Santos.pdf) <!-- (https://mail-attachment.googleusercontent.com/attachment/u/0/?ui=2&ik=1f5086dcef&attid=0.1&permmsgid=msg-f:1694034762662692652&th=17826ba429ac472c&view=att&disp=inline&saddbat=ANGjdJ9xq0F-y0TGVRuE6kriiRhO_x7iiDqRoU-m3bzVAX2Gop01Tmap9KYzkBqYim-H1cPoNPUibuIeyaMtuLg6H8oZD2uAzs5LvMPj8bLgptZGQPWvG2OwQ6o-obhyEN9HXpBjo9N3CyZmQhJbCaw_fLK5703rJmc6bcdNZHRrkLPvDHzVD2QDzFTY8gryANAQaUmKWck-nvywM6w6iU2lnEl5tqo99GoJmj4gCZes61vCj-nukwAejdoFBtpJs7EHmsvF6j4dfOrlyLq4bSuVTXkAUFGmfVZJd2JCnqPnv0isJOiMTfHEoUstrczjhbh29fqd_3sF-1gDJcN0t2I-fF6Hc6hniFze3JoxsxGifuU8MUChAZ-gV6ssnPxQrCQTWgVZ-issRQvNhkjeJfQzqu0Xy1d0BPjY8aXJOvuEMC0Km6iPb9HkV_EXhjCsoRYH3f3mDCgXQx6218IXzp-mp63XGhhSJv41UsAqwfCLK4UaNPTTzLsD64P7n2wdhpYSwxqAO7vvNdhzqGs15ANNGYy_oRMIDeG3xXAxxY6XOoOBYKaykHDCSGS7xMAq_XvMdCpurHo2_mu99hSjJLUKAXPvOpgb3Di97TLA3lEAhZyTpXf2nyt4wII5C9hVM2NqPSdR5D6GghV4lsBvaaY_N-LkQZ5FnR77i_kxmOacASDJrV3mdElyExYTwUU).-->
 
-### Visitor count: ![Visitor Count](https://profile-counter.glitch.me/AnaTertu/count.svg) 
+
 ![AnaTertu's GitHub stats](https://github-readme-stats.vercel.app/api?username=AnaTertu&show_icons=true&theme=radical) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AnaTertu&langs_count=12&theme=radical)
 
 <!--
+
+### Visitor count: ![Visitor Count](https://profile-counter.glitch.me/AnaTertu/count.svg) 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AnaTertu&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 ![AnaTertu's GitHub stats](https://github-readme-stats.vercel.app/api?username=AnaTertu&hide=contribs,issues) 
