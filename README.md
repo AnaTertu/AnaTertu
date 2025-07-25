@@ -42,8 +42,9 @@ Hoje meu objetivo é claro: **atuar como desenvolvedora iOS**, contribuindo com 
 
 | Projeto | Descrição | Tecnologias |
 |--------|-----------|-------------|
-| **App Eventos iOS** [VSEventsProject](https://github.com/AnaTertu/VSEventsProject)| Listagem de eventos com UIKit e RxSwift, em desenvolvimetno vou contribuir com UI e UX| Swift, UIKit |
+| **App Eventos iOS** [VSEventsProject](https://github.com/AnaTertu/VSEventsProject) | Listagem de eventos com UIKit e RxSwift, em desenvolvimetno vou contribuir com UI e UX| Swift, UIKit |
 | **Repositório de estudos** [devSwiftJourney](https://github.com/AnaTertu/devSwiftJourney) | Estudos diários em Swift, desafios práticos, anotações e mais de 10 mini apps, seguindo: 100DaysOfSwift, CS193p, Tic em Trilhas e Dio. | Swift, UIKit, SwiftUI |
+| **App de controle de finanças** [Zafiri](https://github.com/AnaTertu/zafiri) | App iOS para registrar receitas e despesas, acompanhar saldo e histórico financeiro. Projeto em desenvolvimento criado para consolidar conhecimentos em mobile com foco em experiência do usuário. | Swift, UIKit/SwiftUI, UserDefaults/CoreData |
 
 ---
 
