@@ -2,11 +2,12 @@
 🎯 Desenvolvedora em transição de carreira com foco em **iOS (Swift)**  
 📍 São José - SC | 💻 Home Office | 💬 Linkedin: [ana-tertu](https://www.linkedin.com/in/ana-tertu/)
 
-<img align="right" height="150" src="https://avatars.githubusercontent.com/u/66326789?v=4" />
 
 ---
 
 ## 💡 Sobre mim
+
+<img align="right" height="150" src="https://avatars.githubusercontent.com/u/66326789?v=4" />
 
 Em 2020 decidi fazer uma transição de carreira, deixando para trás 15 anos de experiência em vendas para me dedicar ao que sempre me chamou atenção: **Tecnologia e Desenvolvimento de Software**.
 
@@ -19,7 +20,7 @@ Hoje meu objetivo é claro: **atuar como desenvolvedora iOS**, contribuindo com 
 
 🎓 **Ciência da Computação** — Cruzeiro do Sul (2025)   
 📱 **100 Days of Swift** — Hacking with Swift (em andamento)   
-📱 **CS193p Developing Apps for iOS** — Stanford University (em andamento)   ✨ 
+📱 **CS193p Developing Apps for iOS** — Stanford University (em andamento)   
 📱 **100 Days of Swift** — Hacking with Swift (em andamento)   
 📱 **Introdução ao desenvolvimento mobile iOS** — TIC em Trilhas (2024)  
 📱 **Bootcamp iOS com Swift** — DIO / Santander (2023)   
